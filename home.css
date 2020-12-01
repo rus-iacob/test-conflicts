@@ -5,6 +5,7 @@
 body {
   font-family: Arial;
   box-sizing: border-box;
+  color:blue;
 }
 body button:focus {
   outline: none;
